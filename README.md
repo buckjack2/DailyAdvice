@@ -23,3 +23,5 @@ couple of Sockets. Yes, a couple as in two. A ServerSocket,
 which waits for client requests (when a client makes a
 new Socket()) and a plain old Socket socket to use for
 communication with the client.
+
+![](/dailyAdvice.jpg)
